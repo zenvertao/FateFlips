@@ -1,0 +1,27 @@
+{
+  "translation": {
+    "title": "戏决 - 人生如戏，一决到底",
+    "settings": {
+      "title": "设置",
+      "modelLabel": "选择模型",
+      "urlLabel": "API URL",
+      "keyLabel": "API 密钥",
+      "keyPlaceholder": "输入您的API密钥",
+      "cancelBtn": "取消",
+      "saveBtn": "保存",
+      "urlRequired": "请输入API URL",
+      "keyRequired": "请输入API密钥",
+      "updatePromptConfirm": "设置已保存！是否需要立即更新 AI 提示？",
+      "updatePromptFailed": "更新AI提示失败:",
+      "clearKeyConfirm": "确定要清除当前模型的API密钥吗？",
+      "resetDataConfirm": "确定要重置所有数据吗？此操作不可恢复。",
+      "needApiKey": "未设置 API 密钥！",
+      "resetMenuItem": "重置数据",
+      "aboutMenuItem": "关于作者"
+    },
+    "updateConfirm": "AI提示已用完！是否需要更新？",
+    "leaveWarning": "⚠️ 即将离开游戏访问外部网址:\n",
+    "dragTip": "👆 长按并拖动光点进行互动",
+    "loadingTip": "数据加载中..."
+  }
+}

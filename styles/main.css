@@ -1,0 +1,118 @@
+/* 基础容器样式 */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  margin: 0;
+  padding: 5rem;
+  box-sizing: border-box;
+}
+
+/* 标题样式 */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* 按钮基础样式 */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  position: relative;
+}
+
+/* 工具栏样式 */
+.toolbar {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  display: flex;
+  height: 48px;
+  z-index: 100;
+}
+
+/* 提示文本容器样式 */
+#prompt-container {
+  max-height: 4.5em;
+  overflow: hidden;
+  margin-bottom: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+#prompt {
+  font-size: 24px;
+  margin: 0;
+  padding: 0 1rem;
+  box-sizing: border-box;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: font-size 0.3s ease;
+}
+
+/* PC端按钮基础样式 */
+.lang-toggle,
+.settings-btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  color: #333;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  padding: 0;
+  margin: 5px;
+}
+
+.lang-toggle:hover,
+.settings-btn:hover {
+  background: rgba(255, 255, 255, 0.5);
+  transform: scale(1.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.lang-toggle:active,
+.settings-btn:active {
+  transform: scale(0.95);
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.settings-btn.active {
+  background: rgba(200, 230, 255, 0.6);
+  box-shadow: 0 1px 4px rgba(0, 50, 150, 0.2);
+}
+
+/* 添加禁用状态的按钮样式 */
+.button-disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+  filter: grayscale(70%);
+  transition: opacity 0.3s ease, filter 0.3s ease;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

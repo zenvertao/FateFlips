@@ -1,0 +1,52 @@
+/* 按钮抖动动画 */
+@keyframes panicShake {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(2px, -3px) rotate(2deg); }
+    50% { transform: translate(-3px, 4px) rotate(-3deg); }
+    75% { transform: translate(4px, 2px) rotate(1deg); }
+    100% { transform: translate(0, 0) rotate(0deg); }
+  }
+  
+  /* Emoji 动画轨迹 */
+  @keyframes emojiSpray {
+    0% { transform: translate(0, 0) scale(0.5) rotate(0deg); opacity: 0; }
+    10% { opacity: 1; transform: translate(calc(var(--translate-x) * 0.2), -20px) scale(0.8) rotate(calc(var(--rotate-deg) * 0.3)); }
+    40% { transform: translate(calc(var(--translate-x) * 0.6), -100px) scale(1.2) rotate(calc(var(--rotate-deg) * 0.7)); opacity: 0.9; }
+    70% { transform: translate(calc(var(--translate-x) * 1.2), -60px) scale(1) rotate(calc(var(--rotate-deg) * 1.2)); opacity: 0.7; }
+    100% { transform: translate(calc(var(--translate-x) * 1.5), 40px) scale(0.5) rotate(calc(var(--rotate-deg) * 1.5)); opacity: 0; }
+  }
+  
+  /* 移动端 Emoji 动画 */
+  @keyframes mobileEmojiSpray {
+    0% { transform: translate(0, 0) scale(0.5) rotate(0deg); opacity: 0; }
+    10% { opacity: 1; transform: translate(calc(var(--translate-x) * 0.2), -15px) scale(0.8) rotate(calc(var(--rotate-deg) * 0.3)); }
+    40% { transform: translate(calc(var(--translate-x) * 0.6), -80px) scale(1.2) rotate(calc(var(--rotate-deg) * 0.7)); opacity: 0.9; }
+    70% { transform: translate(calc(var(--translate-x) * 1.2), -30px) scale(1) rotate(calc(var(--rotate-deg) * 1.2)); opacity: 0.7; }
+    100% { transform: translate(calc(var(--translate-x) * 1.8), 80px) scale(0.5) rotate(calc(var(--rotate-deg) * 1.5)); opacity: 0; }
+  }
+  
+  /* 按钮抖动动画 */
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    75% { transform: translateX(5px); }
+  }
+  
+  /* 进度条动画 */
+  @keyframes progress {
+    from { width: 100% }
+    to { width: 0% }
+  }
+  
+  /* 加载动画 */
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  /* 提示动画 */
+  @keyframes pulseTip {
+    0% { opacity: 0.3; }
+    50% { opacity: 1; }
+    100% { opacity: 0.3; }
+  }

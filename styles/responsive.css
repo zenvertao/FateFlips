@@ -1,0 +1,144 @@
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .container {
+        display: grid;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas:
+            "title"
+            "yes-btn"
+            "face"
+            "no-btn";
+        height: 100vh;
+        padding: 0.5rem;
+        padding-top: 3rem !important;
+        gap: 0;
+        justify-items: center;
+        align-items: center;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        margin: 0;
+    }
+
+    h1 {
+        grid-area: title;
+        width: 100%;
+        text-align: center;
+        margin: 0.5rem 0 1rem 0;
+        padding-top: 1rem;
+    }
+
+    #yesBtn {
+        grid-area: yes-btn;
+        margin: 0.5rem auto;
+        width: 80%;
+        max-width: 300px;
+        justify-self: center;
+        text-align: center;
+    }
+
+    #noBtn {
+        grid-area: no-btn;
+        margin: 0.5rem auto;
+        width: 80%;
+        max-width: 300px;
+        justify-self: center;
+        text-align: center;
+    }
+
+    #face {
+        grid-area: face;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .buttons {
+        display: none;
+    }
+
+    .toolbar {
+        position: absolute;
+        right: 5px;
+        z-index: 100;
+    }
+
+    .lang-toggle,
+    .settings-btn {
+        border: none;
+        box-shadow: none;
+        font-weight: 500;
+        padding: 0;
+        margin: 2px;
+    }
+
+    #prompt-container {
+        max-height: 6em;
+    }
+
+    #prompt {
+        font-size: 20px;
+        -webkit-line-clamp: 4;
+    }
+
+    #prompt.long-text {
+        font-size: 18px;
+    }
+
+    #prompt.very-long-text {
+        font-size: 16px;
+    }
+}
+
+/* 移动端虚拟光标样式 */
+.mobile-only {
+    display: none;
+}
+
+@media (hover: none) and (pointer: coarse) {
+    .mobile-only {
+        display: block;
+    }
+
+    #mobile-cursor {
+        position: fixed;
+        left: 0;
+        top: 0;
+        background: #ff4757;
+        border-radius: 50%;
+        box-shadow:
+            0 0 15px #ff4757,
+            0 0 30px rgba(255, 71, 87, 0.5);
+        opacity: 0.8;
+        pointer-events: none;
+        width: 20px;
+        height: 20px;
+        transition: transform 0.05s;
+    }
+
+    #mobile-cursor::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        background: white;
+        border-radius: 50%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #mobile-tip {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.6);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 25px;
+        font-size: 10px;
+        animation: pulseTip 3s infinite;
+    }
+}

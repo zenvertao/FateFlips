@@ -1,0 +1,27 @@
+{
+  "translation": {
+    "title": "FateFlips - the drama grips",
+    "settings": {
+      "title": "Settings",
+      "modelLabel": "Model",
+      "urlLabel": "API URL",
+      "keyLabel": "API Key",
+      "keyPlaceholder": "Enter your API key",
+      "cancelBtn": "Cancel",
+      "saveBtn": "Save",
+      "urlRequired": "Please enter API URL",
+      "keyRequired": "Please enter API key",
+      "updatePromptConfirm": "Settings saved! Would you like to update AI prompts now?",
+      "updatePromptFailed": "Failed to update AI prompt:",
+      "clearKeyConfirm": "Are you sure to clear the API key for current model?",
+      "resetDataConfirm": "Are you sure you want to reset all data? This action cannot be undone.",
+      "needApiKey": "API key not set!",
+      "resetMenuItem": "Reset",
+      "aboutMenuItem": "About"
+    },
+    "updateConfirm": "AI prompt used up. Update now?",
+    "leaveWarning": "⚠️ Visit external URL:\n",
+    "dragTip": "👆 Press and drag the dot to interact",
+    "loadingTip": "Loading..."
+  }
+}

@@ -1,0 +1,992 @@
+[
+    [
+        [
+            "Your pet llama demands a raise in snack allowance. Approve?",
+            "Double snacks",
+            "Strike!",
+            "Llama now wears a diamond collar 💎",
+            "Your socks mysteriously vanish every morning 🧦",
+            3.2
+        ],
+        [
+            "你的宠物羊驼要求加零食津贴，批准吗？",
+            "双倍零食",
+            "断粮抗议",
+            "羊驼现在戴着钻石项圈闪亮登场 💎",
+            "从此每天早晨袜子都会神秘消失 🧦",
+            3.1
+        ]
+    ],
+    [
+        [
+            "Replace all doorbells with dolphin squeaks?",
+            "Eeek-eek!",
+            "Ding-dong",
+            "Mailman brings fish treats 🐬",
+            "Neighbors think you're underwater 🏊",
+            2.9
+        ],
+        [
+            "把所有门铃换成海豚音效？",
+            "吱吱叫",
+            "叮咚响",
+            "快递员开始随身带小鱼干 🐬",
+            "邻居以为你家被水淹了 🏊",
+            2.8
+        ]
+    ],
+    [
+        [
+            "Upgrade your pillow to 5G? (Dreams load instantly)",
+            "Buffering...",
+            "Snore offline",
+            "You now dream in 4K resolution 🎥",
+            "Your sheep counting goes analog 🐑",
+            3.7
+        ],
+        [
+            "给枕头升级5G网络？(梦境秒加载)",
+            "正在缓冲...",
+            "断网沉睡",
+            "开始做4K超清梦 🎥",
+            "数羊变成手工作业 🐑",
+            3.6
+        ]
+    ],
+    [
+        [
+            "Upgrade your toaster to play heavy metal when done?",
+            "Rock on!",
+            "No jam",
+            "Your toast is now headbanging 🤘",
+            "Toast remains uncultured 🍞",
+            3.2
+        ],
+        [
+            "把烤面包机升级成烤完后播放重金属音乐？",
+            "摇滚起来！",
+            "不要噪音",
+            "你的吐司开始甩头了🤘",
+            "吐司依然是个文静宝宝🍞",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Replace all your socks with LED light-up ones?",
+            "Glow time!",
+            "Stay dull",
+            "Your feet are now rave stars ✨",
+            "Darkness prevails... 🧦",
+            2.8
+        ],
+        [
+            "把所有袜子换成LED发光款？",
+            "闪亮登场！",
+            "保持低调",
+            "你的脚丫变成夜店明星了✨",
+            "黑暗势力获胜... 🧦",
+            2.8
+        ]
+    ],
+    [
+        [
+            "Install a trampoline floor in your living room?",
+            "Bounce!",
+            "No jump",
+            "Your cat now owns an amusement park 🐱",
+            "Gravity wins again... 🛋️",
+            4.1
+        ],
+        [
+            "在客厅安装蹦床地板？",
+            "弹起来！",
+            "老实呆着",
+            "你的猫拥有了游乐园🐱",
+            "地心引力再次获胜... 🛋️",
+            4.1
+        ]
+    ],
+    [
+        [
+            "Program your alarm clock to roast you personally?",
+            "Burn me!",
+            "Be nice",
+            "Wakey wakey, loser! 🔥",
+            "Morning sunshine 🌞",
+            3.7
+        ],
+        [
+            "把闹钟设置成会毒舌吐槽你？",
+            "来骂我！",
+            "温柔点",
+            "起床啦，懒猪！🔥",
+            "早安小太阳🌞",
+            3.7
+        ]
+    ],
+    [
+        [
+            "Replace bed with giant beanbag?",
+            "Comfy Chaos",
+            "Mattress Loyalty",
+            "🛏️ Morning backache meets afternoon nap 😴",
+            "🛌 Orthopedic clinic loses customer 🏥",
+            4.1
+        ],
+        [
+            "把床换成巨型懒人沙发？",
+            "堕落到底",
+            "床垫万岁",
+            "🛏️ 清晨腰痛邂逅午后回笼觉 😴",
+            "🛌 骨科诊所痛失客户 🏥",
+            3.7
+        ]
+    ],
+    [
+        [
+            "Auto-like all ex's social posts?",
+            "Stalker Mode",
+            "Digital Amnesia",
+            "❤️ 3AM 'WHY DID YOU LIKE MY BABY PHOTOS'",
+            "🧠 Peaceful ignorance prevails 🕊️",
+            4.2
+        ],
+        [
+            "自动点赞前任所有动态？",
+            "偷窥狂魔",
+            "数字失忆",
+            "❤️ 凌晨三点收到'为什么点赞我童年照'",
+            "🧠 岁月静好假装没看见 🕊️",
+            3.8
+        ]
+    ],
+    [
+        [
+            "Drink 10th coffee before deadline?",
+            "Zoom Zoom",
+            "Preserve Heart",
+            "💔 Cardiologists love repeat customers",
+            "😴 Productivity at sloth level",
+            3.7
+        ],
+        [
+            "Deadline前喝第十杯咖啡？",
+            "续命模式",
+            "佛系养生",
+            "💔 心内科医生为你预留VIP床位",
+            "😴 效率堪比树懒",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Buy everything in shopping cart at 3AM?",
+            "YOLO",
+            "Be Adult",
+            "📦 Delivery guy becomes your BFF",
+            "💰 Bank account remains intact (sigh)",
+            3.2
+        ],
+        [
+            "半夜清空购物车？",
+            "买买买",
+            "忍住泪水",
+            "📦 快递小哥和你结成革命友谊",
+            "💰 存款安全得让人悲伤",
+            3
+        ]
+    ],
+    [
+        [
+            "Write weekly report using only emojis?",
+            "📊💥🔥",
+            "📝😴",
+            "🤯 Boss demands translator",
+            "✅ Report remains soul-crushingly normal",
+            3.5
+        ],
+        [
+            "用表情包写周报？",
+            "💥放飞模式",
+            "😴老实码字",
+            "🤯 老板要求配翻译",
+            "✅ 周报正常得令人绝望",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Put 100 candles on birthday cake?",
+            "Blaze Glory",
+            "Be Honest",
+            "🎂 Fire department gives special discount",
+            "🕯️ Numbers match real age (ouch)",
+            3.5
+        ],
+        [
+            "在生日蛋糕插满100根蜡烛？",
+            "照亮夜空",
+            "写实际年龄",
+            "🎂 消防队给你VIP会员价",
+            "🕯️ 数字准确得令人心碎",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Rename WiFi to FBI Surveillance Van?",
+            "Go Dark",
+            "Stay Basic",
+            "👮 Neighbors suddenly very polite",
+            "📶 Network name remains boring",
+            3.2
+        ],
+        [
+            "把WiFi名改成FBI监控车？",
+            "特工上线",
+            "保持低调",
+            "👮 邻居开始主动帮你倒垃圾",
+            "📶 网络名依旧叫「宽带连接」",
+            3
+        ]
+    ],
+    [
+        [
+            "Check phone during boring meeting?",
+            "Risk It",
+            "Play Dead",
+            "📱 Boss notices your ninja skills",
+            "😐 Nodding expertise leveled up",
+            3.7
+        ],
+        [
+            "在无聊会议上偷玩手机？",
+            "冒险模式",
+            "生存本能",
+            "📱 老板发现你的忍者天赋",
+            "😐 点头功力突破天际",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Microwave durian in office break room?",
+            "Aroma Therapy",
+            "Nope Nope",
+            "🔥 Colleagues evacuating in 3...2...1...",
+            "😷 Afternoon tea becomes biohazard drill",
+            3.2
+        ],
+        [
+            "在办公室用微波炉加热榴莲？",
+            "香气攻击",
+            "良心发现",
+            "🔥 同事开始三分钟紧急疏散",
+            "😷 下午茶变成生化防御演习",
+            3
+        ]
+    ],
+    [
+        [
+            "Fart in elevator then blame the dog?",
+            "Blame Dog",
+            "Suffer Silently",
+            "🐶 Colleagues start carrying air fresheners",
+            "😶 Everyone develops sudden deafness",
+            3.5
+        ],
+        [
+            "在电梯放屁后嫁祸给隔壁金毛？",
+            "战术甩锅",
+            "憋出内伤",
+            "🐶 同事开始随身携带空气清新剂",
+            "😶 大家突然集体失聪",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Set boss's photo as phone lockscreen?",
+            "Motivation++",
+            "Keep Cat",
+            "👀 Boss appears behind you magically",
+            "🐱 Screen remains cute but useless",
+            3.2
+        ],
+        [
+            "把老板照片设成手机锁屏？",
+            "鸡血模式",
+            "继续用猫",
+            "👀 老板开始闪现式出现在你身后",
+            "🐱 屏幕可爱但毫无威慑力",
+            3
+        ]
+    ],
+    [
+        [
+            "Post gym selfie with toilet paper stuck to shoe?",
+            "Flex Imperfection",
+            "Delete Evidence",
+            "🏋️ TP becomes new fitness accessory trend",
+            "🧻 Toilet paper sales mysteriously drop",
+            3.5
+        ],
+        [
+            "发健身自拍时露出鞋底粘的厕纸？",
+            "缺陷美",
+            "毁灭证据",
+            "🏋️ 厕纸成健身房最新潮流单品",
+            "🧻 卫生纸销量神秘下跌",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Use karaoke app during conference call?",
+            "Drop Mic",
+            "Mute Button",
+            "🎤 Colleagues start virtual talent show",
+            "🔇 Meeting productivity spikes 200%",
+            3.2
+        ],
+        [
+            "电话会议时悄悄开K歌软件？",
+            "抢麦模式",
+            "老实静音",
+            "🎤 同事发起线上好声音大赛",
+            "🔇 会议效率突破历史峰值",
+            3
+        ]
+    ],
+    [
+        [
+            "Buy 50 identical striped shirts?",
+            "Uniform Life",
+            "Be Basic",
+            "👔 Colleagues think you're time traveler",
+            "👕 Wardrobe remains painfully normal",
+            3.5
+        ],
+        [
+            "买50件同款条纹衬衫？",
+            "极简主义",
+            "正常购物",
+            "👔 同事以为你是时空管理局员工",
+            "👕 衣柜正常得毫无新意",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Send \"How r u?\" to CEO by accident?",
+            "Roll With It",
+            "Sweat Profusely",
+            "👑 CEO replies with dinosaur memes",
+            "📱 Phone miraculously self-destructs",
+            3.7
+        ],
+        [
+            "手滑给CEO发「在吗」？",
+            "将错就错",
+            "疯狂撤回",
+            "👑 CEO用恐龙表情包回复",
+            "📱 手机突然自动格式化",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Let algorithm decide your dating life?",
+            "Swipe AI",
+            "Trust Gut",
+            "❤️ Matched with pizza delivery guy...again",
+            "💔 Loneliness remains human-curated",
+            3.5
+        ],
+        [
+            "让算法决定你的相亲对象？",
+            "AI红娘",
+            "相信直觉",
+            "❤️ 第8次匹配到外卖小哥",
+            "💔 孤独依旧纯手工打造",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Use cat photo as LinkedIn profile picture?",
+            "Pawsome idea!",
+            "Stay formal",
+            "🐱 Recruiters start sending catnip samples",
+            "👔 Headhunters think you're actually professional",
+            3.8
+        ],
+        [
+            "用猫照片当简历头像？",
+            "喵星崛起",
+            "保持正经",
+            "🐱 HR开始给你寄猫薄荷样品",
+            "👔 猎头以为你是正常人",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Program phone to scream when WiFi disconnects?",
+            "Panic mode",
+            "Silent suffer",
+            "📱 Cafés ban you for causing stampedes",
+            "🌐 Learn 5G hotspot dance moves secretly",
+            4.1
+        ],
+        [
+            "设置手机断网时自动尖叫？",
+            "恐慌启动",
+            "安静受罪",
+            "📱 咖啡厅因你引发踩踏事件",
+            "🌐 偷偷练习5G热点之舞",
+            3.9
+        ]
+    ],
+    [
+        [
+            "Replace work passwords with Taylor Swift lyrics?",
+            "Shake it off",
+            "Secure login",
+            "🔑 IT dept starts line-dancing meetings",
+            "🛡️ Colleagues actually remember passwords",
+            4.0
+        ],
+        [
+            "把工作密码全改成歌词？",
+            "歌词护体",
+            "传统加密",
+            "🔑 IT部开始跳排舞开会",
+            "🛡️ 同事居然记住了密码",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Allow Siri to roast you once daily?",
+            "Bring it on",
+            "Protect ego",
+            "🤖 Siri starts 'Ex's Podcast' channel",
+            "📱 Phone learns golden silence",
+            3.8
+        ],
+        [
+            "允许Siri每天吐槽你一次？",
+            "求虐模式",
+            "守护自尊",
+            "🤖 Siri开通前任语音播客",
+            "📱 手机学会沉默是金",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Let smartwatch post gym data to family group?",
+            "Shame cycle",
+            "Private sweat",
+            "👵 Grandma texts HIIT tutorials daily",
+            "💦 Achieve ninja workout stealth",
+            4.2
+        ],
+        [
+            "允许手表同步健身数据到家族群？",
+            "公开处刑",
+            "默默流汗",
+            "👵 奶奶每天发HIIT教程",
+            "💦 达成忍者式健身成就",
+            3.8
+        ]
+    ],
+    [
+        [
+            "Program toilet to play victory fanfare?",
+            "Royal Flush!",
+            "Silent Mode",
+            "🎺 Family suspects gaming addiction",
+            "🚽 Plumbing gains self-esteem",
+            4.3
+        ],
+        [
+            "设置马桶奏响凯旋进行曲？",
+            "登基仪式",
+            "静音模式",
+            "🎺 家人怀疑沉迷网游",
+            "🚽 下水管道自信心爆棚",
+            4
+        ]
+    ],
+    [
+        [
+            "Replace all pajamas with LED light-up onesies?",
+            "Glow Sleep!",
+            "Stay Dark",
+            "✨ Bedroom becomes nightclub dance floor",
+            "🌌 Partner files light pollution complaint",
+            3.7
+        ],
+        [
+            "把所有睡衣换成LED发光连体服？",
+            "霓虹入眠",
+            "保持黑暗",
+            "✨ 卧室变身夜店舞池",
+            "🌌 伴侣投诉光污染",
+            3.4
+        ]
+    ],
+    [
+        [
+            "Upgrade showerhead to dispense bubble tea?",
+            "Boba Shower",
+            "Water Only",
+            "🧋 Plumbers form fan club",
+            "🚿 Drainage system sends thank you note",
+            4.2
+        ],
+        [
+            "把花洒升级成珍珠奶茶机？",
+            "波霸沐浴",
+            "老实出水",
+            "🧋 水管工成立后援会",
+            "🚿 排水系统发来感谢信",
+            3.9
+        ]
+    ],
+    [
+        [
+            "Replace office chairs with inflatable ducks?",
+            "Quack Work",
+            "Stay Ergonomic",
+            "🦆 HR drafts 'pond etiquette' handbook",
+            "💼 Colleagues bring bread crumbs",
+            4.4
+        ],
+        [
+            "用充气鸭子代替办公椅？",
+            "呱呱办公",
+            "人体工学",
+            "🦆 人力资源部起草《池塘礼仪》",
+            "💼 同事随身携带面包屑",
+            4.1
+        ]
+    ],
+    [
+        [
+            "Eat stinky noodles in shared dorm?",
+            "Aroma Attack",
+            "Eat Outside",
+            "👃 Roommates relocate to Antarctica",
+            "🍜 Wind carries smell to principal's office",
+            3.2
+        ],
+        [
+            "在宿舍吃螺蛳粉？",
+            "气味核弹",
+            "阳台解决",
+            "👃 室友连夜申请南极科考",
+            "🍜 风把味道送到校长办公室",
+            3
+        ]
+    ],
+    [
+        [
+            "Buy 12-pack toilet paper with dog meme packaging?",
+            "Mood TP",
+            "Basic Roll",
+            "🚽 Colleagues request bathroom selfies",
+            "🧻 Toilet remains humorless zone",
+            3.5
+        ],
+        [
+            "买柴犬表情包印花卫生纸？",
+            "带梗如厕",
+            "朴素原浆",
+            "🚽 同事要求参观你家厕所",
+            "🧻 马桶间依旧严肃正经",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Set 5AM alarm for sunrise yoga...on Saturday?",
+            "Namaste",
+            "Zzz...",
+            "🌅 Neighbors think you're cult leader",
+            "🛏️ Bed indentation matches body perfectly",
+            3.7
+        ],
+        [
+            "设周六5点闹钟做日出瑜伽？",
+            "灵魂觉醒",
+            "被窝万岁",
+            "🌅 邻居以为你搞邪教集会",
+            "🛏️ 床垫凹陷成人体工学雕塑",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Order 3kg wasabi peanuts for movie night?",
+            "Tearjerker",
+            "Plain Popcorn",
+            "🎬 Cinema becomes chemical warfare zone",
+            "🍿 Snacks remain boringly edible",
+            3.2
+        ],
+        [
+            "追剧买三斤芥末花生？",
+            "痛并快乐",
+            "原味爆米花",
+            "🎬 客厅变成催泪瓦斯现场",
+            "🍿 零食安全得毫无新意",
+            3
+        ]
+    ],
+    [
+        [
+            "Wear pajama pants to supermarket grand opening?",
+            "Comfy First",
+            "Real Pants",
+            "🛒 You're featured in store promo video",
+            "👖 Cashier mistakes you for employee",
+            3.5
+        ],
+        [
+            "穿睡裤参加超市大促？",
+            "慵懒至上",
+            "体面出门",
+            "🛒 你成了开业宣传片背景板",
+            "👖 收银员问你员工折扣码",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Buy 20-pack of mystery flavor bubble tea?",
+            "Gamble Time",
+            "Safe Choice",
+            "🧋 Delivery guy knows your shame",
+            "🍵 Stomach becomes flavor lab",
+            3.2
+        ],
+        [
+            "盲盒奶茶一次性买20杯？",
+            "赌徒模式",
+            "经典珍珠",
+            "🧋 外卖小哥掌握你的黑历史",
+            "🍵 肠胃经历味觉大冒险",
+            3
+        ]
+    ],
+    [
+        [
+            "Take 1hr bath with 100 rubber ducks?",
+            "Quack Therapy",
+            "Quick Shower",
+            "🛁 Plumber thinks you're duck breeder",
+            "🚿 Water bill remains socially acceptable",
+            3.5
+        ],
+        [
+            "泡澡时放100只橡皮鸭？",
+            "鸭力管理",
+            "五分钟战斗澡",
+            "🛁 维修工以为你搞养殖业",
+            "🚿 水费正常得毫无故事",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Use VR headset during family reunion dinner?",
+            "Digital Escape",
+            "Face Reality",
+            "👾 Aunt thinks you're cyborg",
+            "👵 Learn grandma's 18th folk remedy",
+            3.7
+        ],
+        [
+            "年夜饭戴VR眼镜？",
+            "赛博遁走",
+            "直面现实",
+            "👾 二姨怀疑你被外星改造",
+            "👵 学会奶奶第18种偏方",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Buy neon pink toilet seat cover?",
+            "Glow Throne",
+            "Stay Classic",
+            "🚽 Bathroom becomes Instagram spot",
+            "🪑 Toilet remains shamefully normal",
+            3.2
+        ],
+        [
+            "买荧光粉马桶圈？",
+            "闪耀王座",
+            "经典款",
+            "🚽 厕所变成打卡圣地",
+            "🪑 马桶平凡得令人羞愧",
+            3
+        ]
+    ],
+    [
+        [
+            "Use washing machine as popcorn maker?",
+            "Spin cycle!",
+            "Buy popper",
+            "👖 Clean jeans smell buttery",
+            "🍿 Learn 32 ways to unclog drains",
+            4.5
+        ],
+        [
+            "用洗衣机爆米花？",
+            "滚筒启动",
+            "买专业机",
+            "👖 干净牛仔裤带奶油香",
+            "🍿 掌握32种通下水道方法",
+            4.0
+        ]
+    ],
+    [
+        [
+            "Teach Roomba to hide snacks under sofa?",
+            "Sneaky Bot",
+            "Honest Clean",
+            "🛋️ Ants unionize for crumb distribution",
+            "🧹 Vacuum wins 'most ethical AI' award",
+            3.9
+        ],
+        [
+            "训练扫地机器人把零食藏沙发底？",
+            "暗度陈仓",
+            "老实扫地",
+            "🛋️ 蚂蚁工会组织碎屑分配罢工",
+            "🧹 吸尘器获评'最道德AI'",
+            3.6
+        ]
+    ],
+    [
+        [
+            "Teach smart speaker to roast streaming plots?",
+            "Spoiler Alert!",
+            "Polite AI",
+            "🎬 'This twist was obvious in episode 1' 🤖",
+            "📺 Producers hire AI as script doctor",
+            4.4
+        ],
+        [
+            "训练智能音箱吐槽剧集套路？",
+            "剧透狂魔",
+            "礼貌AI",
+            "🎬 '第一集就猜到这烂尾' 🤖",
+            "📺 制片方高薪聘请AI当编剧",
+            4
+        ]
+    ],
+    [
+        [
+            "Auto-translate pet videos into TED talks?",
+            "Paw-sitive Thinking",
+            "Meow Only",
+            "🐶 Doge becomes keynote speaker at summit",
+            "🐱 Cat videos now require footnotes",
+            3.6
+        ],
+        [
+            "把宠物视频自动翻译成TED演讲？",
+            "爪巴哲学",
+            "喵言喵语",
+            "🐶 狗子成为峰会主讲嘉宾",
+            "🐱 猫片必须附带学术注释",
+            3.3
+        ]
+    ],
+    [
+        [
+            "Program coffee maker to play heavy metal at dawn?",
+            "Rock n Brew",
+            "Gentle Drip",
+            "☕️ Neighbors form mosh pit",
+            "🌅 Sunrise remains peacefully quiet",
+            3.5
+        ],
+        [
+            "设置咖啡机在清晨播放重金属？",
+            "硬核提神",
+            "温柔滴滤",
+            "☕️ 邻居开启晨间蹦迪",
+            "🌅 日出依旧岁月静好",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Buy giant inflatable cactus for office desk?",
+            "Desert Chic",
+            "Minimalist",
+            "🌵 Colleagues start wearing cowboy hats",
+            "💻 Workspace remains painfully corporate",
+            3.2
+        ],
+        [
+            "买巨型充气仙人掌装饰工位？",
+            "沙漠风情",
+            "极简主义",
+            "🌵 同事集体购入牛仔帽",
+            "💻 办公区依旧性冷淡",
+            3
+        ]
+    ],
+    [
+        [
+            "Buy 24-pack of mismatched socks?",
+            "Chaos Core",
+            "Be Matchy",
+            "🧦 Laundry becomes puzzle game",
+            "👟 Feet stay twins forever",
+            3.5
+        ],
+        [
+            "买24只不成双的袜子？",
+            "混乱美学",
+            "成双成对",
+            "🧦 洗衣日变成连连看",
+            "👟 脚丫永远成双入对",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Buy 3D printer to make custom ramen toppings?",
+            "Food Hacker",
+            "Basic Eater",
+            "🍜 Ramen shops want to sue you",
+            "🥢 Noodles remain deliciously normal",
+            3.7
+        ],
+        [
+            "买3D打印机自制拉面配料？",
+            "料理革命",
+            "普通食客",
+            "🍜 拉面店联合发律师函",
+            "🥢 面条依旧平平无奇",
+            3.5
+        ]
+    ],
+    [
+        [
+            "Use drone to walk dog during heatwave?",
+            "Tech Savvy",
+            "Old School",
+            "🐕 Park becomes drone racing zone",
+            "🌞 Still get heatstroke anyway",
+            3.5
+        ],
+        [
+            "三伏天用无人机遛狗？",
+            "科技养宠",
+            "老实出汗",
+            "🐕 公园变身无人机竞速场",
+            "🌞 该中暑还是中暑",
+            3.2
+        ]
+    ],
+    [
+        [
+            "Order 12 identical goldfish for feng shui?",
+            "Lucky School",
+            "Single Pet",
+            "🐠 Office becomes aquarium",
+            "💼 Career luck remains unchanged",
+            3.2
+        ],
+        [
+            "买12条同款金鱼改风水？",
+            "玄学阵列",
+            "单身鱼",
+            "🐠 工位变成水族馆",
+            "💼 事业运稳如老狗",
+            3
+        ]
+    ],
+    [
+        [
+            "Buy 5L ketchup bottle for fries addiction?",
+            "Sauce Boss",
+            "Dip Responsibly",
+            "🍟 Burgers float in red sea",
+            "🥤 Condiment usage remains moderate",
+            3.2
+        ],
+        [
+            "买5升装番茄酱配薯条？",
+            "酱王出征",
+            "适量蘸取",
+            "🍟 汉堡在红色海洋漂流",
+            "🥤 调味品消耗依旧正常",
+            3
+        ]
+    ],
+    [
+        [
+            "Buy inflatable sofa for subway commute?",
+            "Comfy Ride",
+            "Stand Tall",
+            "💺 Commuters think you're genius",
+            "🚇 Personal space remains myth",
+            3.2
+        ],
+        [
+            "买充气沙发坐地铁？",
+            "移动瘫",
+            "老实罚站",
+            "💺 通勤族想给你颁奖",
+            "🚇 个人空间仍是传说",
+            3
+        ]
+    ],
+    [
+        [
+            "Set phone alarm to goat screaming?",
+            "Farm Fresh",
+            "Boring Beep",
+            "🐐 Neighbors start building barn",
+            "⏰ Wake up process remains civilized",
+            3.2
+        ],
+        [
+            "把手机闹铃设成山羊尖叫？",
+            "硬核叫早",
+            "普通铃声",
+            "🐐 邻居开始筹备农家乐",
+            "⏰ 起床依旧岁月静好",
+            3
+        ]
+    ],
+    [
+        [
+            "Live-stream brushing teeth for morning motivation?",
+            "Go Viral",
+            "Keep Mundane",
+            "🎥 Dentists offering sponsorship deals",
+            "🦷 Morning routine remains shamefully private",
+            3.5
+        ],
+        [
+            "直播刷牙过程激励网友早起？",
+            "出道吧",
+            "保持体面",
+            "🎥 牙科诊所发来代言邀请",
+            "🦷 清晨依旧安静如鸡",
+            3.2
+        ]
+    ]
+]
