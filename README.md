@@ -90,7 +90,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/FateFlips.git
+git clone https://github.com/zenvertao/FateFlips.git
 cd FateFlips
 
 # 使用任意HTTP服务器运行

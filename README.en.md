@@ -90,7 +90,7 @@ If you have better creative ideas or discover bugs, feel free to submit a PR to 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/FateFlips.git
+git clone https://github.com/zenvertao/FateFlips.git
 cd FateFlips
 
 # Run using any HTTP server
