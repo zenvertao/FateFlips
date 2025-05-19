@@ -5,6 +5,10 @@
   <p>中文 | <a href="README.en.md">English</a></p>
 </div>
 
+## 🌐 在线体验
+
+**立即体验：** [https://zenvertao.github.io/FateFlips/](https://zenvertao.github.io/FateFlips/)
+
 ## 📖 项目概述
 
 戏决（FateFlips）是一款轻松有趣的互动式两难选择游戏，提供了大量贴近日常生活的两难选择题。玩家通过做出选择，会看到有趣且出人意料的结果，带来会心一笑的体验。游戏支持中英文双语，并配有生动的表情动画反馈。

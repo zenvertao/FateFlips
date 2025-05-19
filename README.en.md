@@ -5,6 +5,10 @@
   <p><a href="README.md">中文</a> | English</p>
 </div>
 
+## 🌐 Online Demo
+
+**Try it now:** [https://zenvertao.github.io/FateFlips/](https://zenvertao.github.io/FateFlips/)
+
 ## 📖 Project Overview
 
 FateFlips is a light-hearted and engaging interactive dilemma game that offers numerous real-life dilemma scenarios. Players make choices and witness amusing and unexpected outcomes that bring a smile to their faces. The game supports both Chinese and English languages and features lively animated expressions.
